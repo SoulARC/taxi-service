@@ -1,11 +1,6 @@
 ﻿*<h1> 🚕Taxi Service🚕</h1>*
 <p>A simple web application for working with a taxi service. It supports authentication, registration and CRUD operation</p>
-<ul>
-  <li>Features</li>
-  <li>Technologies</li>
-  <li>Project structure</li>
-  <li>How to start the program</li>  
-</ul>
+
 <h2> 🙈Functionality </h2> 
 <h3> Maine page</h3>
 
@@ -20,10 +15,10 @@
 <h3> Architecture </h3>
 <p>3-layer architecture + DB </p>
 
-| Controllers |
-|:-----------:|
-|   Service   |
-|     DAO     |
+| Controller |
+|:----------:|
+|  Service   |
+|    DAO     |
 
 <p> DB structure</p>
 
@@ -49,7 +44,7 @@
   <li>Clone this project</li>
   <li>Create a schema using <a href="https://github.
 com/SoulARC/taxi-service/blob/main/src/main/resources/init_db.sql#L9">script</a> </li>
-  <li>Configure <a href="https://github.com/SoulARC/taxi-service/blob/main/src/main/resources/init_db.sql#L9">ConnectionUtil.java</a> 
+  <li>Configure <a href="https://github.com/SoulARC/taxi-service/blob/main/src/main/java/taxi/util/ConnectionUtil.java#L9">ConnectionUtil.java</a> 
   <li>⏯Run</li>  
 </ol> 
 
