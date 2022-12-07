@@ -36,7 +36,6 @@
 |  Servlet	   |  4.0.1  |
 |    JSTL	    |   1.2   |
 |    JSP	     |    -    |
-| HTML, CSS	  |    -    |
 
 <h2> 🖱️How to use</h2>
 <ol>
